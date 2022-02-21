@@ -25,21 +25,21 @@ function get_hulk()
 	var get_hulk=""
 	
 		if (hulk==0) {												
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/troubled_hulk.html";
+			get_hulk = "troubled_hulk.html";
 		} else if (hulk==1) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/busy_hulk.html";
+			get_hulk = "busy_hulk.html";
 		} else if (hulk==2) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/graduated_hulk.html";
+			get_hulk = "graduated_hulk.html";
 		}else if (hulk==3) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/revolutionary_hulk.html";
+			get_hulk = "revolutionary_hulk.html";
 		} else if (hulk==4) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/sexy_hulk.html";
+			get_hulk = "sexy_hulk.html";
 		} else if (hulk==5) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/hungry_hulk.html";
+			get_hulk = "hungry_hulk.html";
 		} else if (hulk =6) {
-			get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/smart_hulk.html";
+			get_hulk = "smart_hulk.html";
 		} else if (hulk==7) {
-		get_hulk = "file:///Users/bianca/Desktop/master%20infotext/1%20-%20informatica%20di%20base/alcoholic_hulk.html";
+		get_hulk = "alcoholic_hulk.html";
 		} 
 	
 	// output
